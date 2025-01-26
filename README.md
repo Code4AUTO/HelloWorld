@@ -1,1 +1,1 @@
-This is my first code, may I have your encourage?
+This is my first Python code in Github, may I have your encourage?
